@@ -133,4 +133,4 @@ Data-backed HR decisions: Management can use real metrics instead of assumptions
 ### Screenshoot:
 This is what the dashboard looks like -
 
-![Dashboard Preview](https://github.com/verma-png123/Amazon-Dashboard/blob/main/Snapshot%20of%20amazon%20dashboard.png)
+![Dashboard Preview](https://github.com/palak-tiwari557/HR-ANALYTICS/commit/fed12b3c399bdac06828716ab0dafeafbd3e9238)
